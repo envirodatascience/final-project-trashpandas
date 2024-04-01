@@ -1,1 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/g_e38bz1)
+
+DATA SOURCES:
+
+1. The World Bank What a Waste (WAW). https://datacatalog.worldbank.org/search/dataset/0039597/What-a-Waste-Global-Database.
+   WAW_city_level_data.csv
+   WAW_country_level_data.csv
+
+2. The Environmental Performance Index. https://epi.yale.edu/epi-results/2022/component/rec
+   EPI_recycling_rates.csv
