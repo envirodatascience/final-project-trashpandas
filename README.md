@@ -3,8 +3,11 @@
 DATA SOURCES:
 
 1. The World Bank What a Waste (WAW). https://datacatalog.worldbank.org/search/dataset/0039597/What-a-Waste-Global-Database.
+
    WAW_city_level_data.csv
+
    WAW_country_level_data.csv
 
-2. The Environmental Performance Index. https://epi.yale.edu/epi-results/2022/component/rec
+3. The Environmental Performance Index. https://epi.yale.edu/epi-results/2022/component/rec
+
    EPI_recycling_rates.csv
