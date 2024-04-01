@@ -8,6 +8,10 @@ DATA SOURCES:
 
    WAW_country_level_data.csv
 
-3. The Environmental Performance Index. https://epi.yale.edu/epi-results/2022/component/rec
+2. The Environmental Performance Index. https://epi.yale.edu/epi-results/2022/component/rec
 
    EPI_recycling_rates.csv
+
+3. The World Bank Official Boundaries. https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Boundaries
+
+ WB_countries.zip
