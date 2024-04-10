@@ -16,5 +16,5 @@ DATA SOURCES:
 
  WB_countries.zip
 
-4. World Economic Forum.
+4. World Economic Forum. Global Gender Gap Report
    https://www.weforum.org/publications/global-gender-gap-report-2023/
