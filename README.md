@@ -18,3 +18,9 @@ DATA SOURCES:
 
 4. World Economic Forum. Global Gender Gap Report
    https://www.weforum.org/publications/global-gender-gap-report-2023/
+
+5. Our World in Data. https://ourworldindata.org/urbanization#:~:text=More%20than%204%20billion%20people,world%20lived%20in%20small%20communities.
+
+urban-and-rural-population.csv
+
+share-of-population-urban.csv
