@@ -8,7 +8,7 @@ DATA SOURCES:
 
 1. Country-Level Waste Data:
   
-   This dataset provides waste generation quantities and population size for each country (along with a number of other variables). 
+   This dataset provides waste generation quantities and population size for each country (along with a number of other waste variables). These data were aggregated from local waste authorities and literature reviews for each country and compiled by The World Bank. This dataset was last updated in January 2024. 
 
    Source: The World Bank What a Waste (WAW). https://datacatalog.worldbank.org/search/dataset/0039597/What-a-Waste-Global-Database.
 
@@ -16,7 +16,7 @@ DATA SOURCES:
 
 2. Country-Level Recycling Rate Data:
   
-   This dataset provides the recycling rate for each country. The EPI score is defined as the amount of waste recycled divided by the total amount of waste collected. We used this score as the Recycling Rate. 
+   This dataset provides the recycling rate for each country. The EPI score (Recycling Rate) is defined as the amount of post-consumer waste recycled divided by the total amount of waste that can be recycled. This data is for 2022 and was collected, analyzed, and presented by The Environmental Performance Index.
   
    Source: The Environmental Performance Index. https://epi.yale.edu/epi-results/2022/component/rec
 
@@ -24,27 +24,27 @@ DATA SOURCES:
 
 3. Country-Level GDP Data:
 
-   This dataset provides the annual GDP for each country, including many years of data. 
+   This dataset provides the annual GDP for each country, including many years of data. These data come from The World Bank national accounts data and OECD National Accounts data files.
 
    Source: The World Bank. https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 
-   File name:
+   File name: API_NY.GDP.MKTP.CD_DS2_en_csv_v2_26.csv
 
 4. Country-Level Urban Data:
 
-   This dataset provides data about the number of people living in urban and rural areas in each country.
+   This dataset provides data about the number of people living in urban and rural areas in each country. This dataset contains information spanning multiple years. 
 
-   Source:
+   Source: Our World In Data. [ADD URL HERE]
 
-   File name:
+   File name: share-of-population-urban.csv
 
 5. Country-Level Gender Index Data:
 
-   This dataset provides a gender score for each country. Gender score is calculated by factoring in
+   This dataset provides a gender score for each country. Gender score is calculated by factoring in economic opportunity, educational attainment, health, and political empowerment. These scores are calculated each year by the World Economic Forum. This report is for 2023. 
 
    Source: The World Economic Forum Global Gender Gap Report. https://www.weforum.org/publications/global-gender-gap-report-2023/
 
-   File name: 
+   File name: Global_Gender_Index.xlsx
    
 6. Country-Level Shape Files:
 
