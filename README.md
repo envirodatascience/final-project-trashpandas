@@ -1,8 +1,10 @@
 ENV 617 Final Project: Trash Pandas
 
+
 By: Ayushi Khan, Jen Adachi, and Sofia John
 
-In this project we look at global waste and recycling data and explore 3 key variables that might correlate with it. We compiled data, cleaned data, visualized trends, ran statistical analyses, and created maps. 
+In this project we looked at global waste and recycling data and explored 3 key variables that might correlate with it. We aimed to understand the relationship between these variables and waste generation / recycling rates. For this project, we compiled data from multiple reputible sources, cleaned/transformed the data, visualized trends, ran statistical analyses, and created maps. 
+
 
 DATA SOURCES:
 
@@ -34,7 +36,7 @@ DATA SOURCES:
 
    This dataset provides data about the number of people living in urban and rural areas in each country. This dataset contains information spanning multiple years. 
 
-   Source: Our World In Data. [ADD URL HERE]
+   Source: Our World In Data. https://ourworldindata.org/urbanization#:~:text=More%20than%204%20billion%20people,world%20lived%20in%20small%20communities
 
    File name: share-of-population-urban.csv
 
